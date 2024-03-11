@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+body {
+    background-color: 
+    #f7d617;
+}
+
+img {
+    width: 220px;
+}
+
+ section {
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 24px;
+    border: 5px solid black;
+    padding: 8px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 5px;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 24px;
+    margin: 20px;
+
+}
+
+.contact {
+    font-size: 16px;
+    text-align: center;
+    line-height: 24px;
+    margin: 16px;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.whatsapp {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    background-color: #008100;
+    padding: 10px 15px;
+    border-radius: 18px;  
+}
